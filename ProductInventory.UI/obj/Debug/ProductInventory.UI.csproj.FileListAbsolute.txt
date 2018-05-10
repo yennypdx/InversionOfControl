@@ -1,0 +1,15 @@
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.UI\bin\Debug\ProductInventory.UI.exe.config
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.UI\bin\Debug\ProductInventory.UI.exe
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.UI\bin\Debug\ProductInventory.UI.pdb
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.UI\obj\Debug\ProductInventory.UI.csprojResolveAssemblyReference.cache
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.UI\obj\Debug\MainWindow.g.cs
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.UI\obj\Debug\App.g.cs
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.UI\obj\Debug\ProductInventory.UI_MarkupCompile.cache
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.UI\obj\Debug\ProductInventory.UI_MarkupCompile.lref
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.UI\obj\Debug\MainWindow.baml
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.UI\obj\Debug\ProductInventory.UI.g.resources
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.UI\obj\Debug\ProductInventory.UI.Properties.Resources.resources
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.UI\obj\Debug\ProductInventory.UI.csproj.GenerateResource.cache
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.UI\obj\Debug\ProductInventory.UI.csproj.CoreCompileInputs.cache
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.UI\obj\Debug\ProductInventory.UI.exe
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.UI\obj\Debug\ProductInventory.UI.pdb

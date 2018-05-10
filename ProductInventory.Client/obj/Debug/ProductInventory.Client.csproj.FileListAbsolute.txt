@@ -1,0 +1,2 @@
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.Client\obj\Debug\ProductInventory.Client.csprojResolveAssemblyReference.cache
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.Client\obj\Debug\ProductInventory.Client.csproj.CoreCompileInputs.cache

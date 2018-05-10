@@ -1,0 +1,12 @@
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.DataAccess\bin\Debug\ProductInventory.DataAccess.dll
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.DataAccess\bin\Debug\ProductInventory.DataAccess.pdb
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.DataAccess\bin\Debug\ProductInventory.Model.dll
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.DataAccess\bin\Debug\ProductInventory.Model.pdb
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.DataAccess\obj\Debug\ProductInventory.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.DataAccess\obj\Debug\ProductInventory.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.DataAccess\obj\Debug\ProductInventory.DataAccess.csproj.CopyComplete
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.DataAccess\obj\Debug\ProductInventory.DataAccess.dll
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.DataAccess\obj\Debug\ProductInventory.DataAccess.pdb
+C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.DataAccess\bin\Debug\Database.txt
