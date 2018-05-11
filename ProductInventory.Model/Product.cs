@@ -25,5 +25,12 @@ namespace ProductInventory.DataAccess
             hashCode = hashCode * -1521134295 + Price.GetHashCode();
             return hashCode;
         }
+
+        public override string ToString()
+        {
+            string outString = Id + ". " + Name + ", "+ Price;
+
+            return outString;
+        }
     }
 }

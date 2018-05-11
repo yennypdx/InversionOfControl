@@ -13,3 +13,18 @@ C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.UI\obj\Debug\Pro
 C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.UI\obj\Debug\ProductInventory.UI.csproj.CoreCompileInputs.cache
 C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.UI\obj\Debug\ProductInventory.UI.exe
 C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.UI\obj\Debug\ProductInventory.UI.pdb
+C:\Repos\InversionOfControl\ProductInventory.UI\bin\Debug\ProductInventory.UI.exe.config
+C:\Repos\InversionOfControl\ProductInventory.UI\bin\Debug\ProductInventory.UI.exe
+C:\Repos\InversionOfControl\ProductInventory.UI\bin\Debug\ProductInventory.UI.pdb
+C:\Repos\InversionOfControl\ProductInventory.UI\obj\Debug\ProductInventory.UI.csprojResolveAssemblyReference.cache
+C:\Repos\InversionOfControl\ProductInventory.UI\obj\Debug\MainWindow.g.cs
+C:\Repos\InversionOfControl\ProductInventory.UI\obj\Debug\App.g.cs
+C:\Repos\InversionOfControl\ProductInventory.UI\obj\Debug\ProductInventory.UI_MarkupCompile.cache
+C:\Repos\InversionOfControl\ProductInventory.UI\obj\Debug\ProductInventory.UI_MarkupCompile.lref
+C:\Repos\InversionOfControl\ProductInventory.UI\obj\Debug\MainWindow.baml
+C:\Repos\InversionOfControl\ProductInventory.UI\obj\Debug\ProductInventory.UI.g.resources
+C:\Repos\InversionOfControl\ProductInventory.UI\obj\Debug\ProductInventory.UI.Properties.Resources.resources
+C:\Repos\InversionOfControl\ProductInventory.UI\obj\Debug\ProductInventory.UI.csproj.GenerateResource.cache
+C:\Repos\InversionOfControl\ProductInventory.UI\obj\Debug\ProductInventory.UI.csproj.CoreCompileInputs.cache
+C:\Repos\InversionOfControl\ProductInventory.UI\obj\Debug\ProductInventory.UI.exe
+C:\Repos\InversionOfControl\ProductInventory.UI\obj\Debug\ProductInventory.UI.pdb

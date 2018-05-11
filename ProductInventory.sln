@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductInventory.UI", "ProductInventory.UI\ProductInventory.UI.csproj", "{F9E715C9-3BB4-4A34-8562-DD53C4DBC967}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductInventory.Model", "ProductInventory.Model\ProductInventory.Model.csproj", "{350938B7-1D9A-4447-A116-0249416D6309}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductInventory.DataAccess", "ProductInventory.DataAccess\ProductInventory.DataAccess.csproj", "{6C80775F-3AEF-4161-A696-11352AC78F89}"
@@ -20,10 +18,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F9E715C9-3BB4-4A34-8562-DD53C4DBC967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F9E715C9-3BB4-4A34-8562-DD53C4DBC967}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F9E715C9-3BB4-4A34-8562-DD53C4DBC967}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F9E715C9-3BB4-4A34-8562-DD53C4DBC967}.Release|Any CPU.Build.0 = Release|Any CPU
 		{350938B7-1D9A-4447-A116-0249416D6309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{350938B7-1D9A-4447-A116-0249416D6309}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{350938B7-1D9A-4447-A116-0249416D6309}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -15,7 +15,7 @@ namespace ProductInventory.Client
 
             foreach(var product in repository.FindAll())
             {
-                Console.WriteLine(product);
+                Console.WriteLine(product.ToString());
             }
 
             Console.ReadKey();
