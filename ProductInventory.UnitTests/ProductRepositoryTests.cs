@@ -35,7 +35,7 @@ namespace ProductInventory.DataAccess.Tests
               });
 
             _dataRepo.Setup(m => m.FindByName(It.IsAny<string>())).Returns(
-                (int name) =>
+                (string name) =>
                 {
                     return _productDb.SingleOrDefault(p => p.Name.Equals(name));
                 });
@@ -51,17 +51,17 @@ namespace ProductInventory.DataAccess.Tests
                     }
                     else
                     {
-                        var newProductToSave = _productDb.SingleOrDefault(p => p.Id.Equals(prod.Id));
-                        if(newProductToSave == null) throw new InvalidOperationException("SaveProduct: null input.");
+                        var newProductToSave = prod;
+                        if (newProductToSave == null)
+                            throw new InvalidOperationException($"SaveProduct: Unable to find Product with ID: {prod.Id}");
 
-                        newProductToSave.Id = prod.Id;
-                        newProductToSave.Name = prod.Name;
-                        newProductToSave.Price = prod.Price;
+                        _productDb.Add(newProductToSave);
+                       
                     }
                 });
         }
 
-        [TestMethod()]
+        [TestMethod]
         public void FindAll_ShouldReturnFiveProducts()
         {
             var product = _dataRepo.Object.FindAll();
@@ -70,7 +70,7 @@ namespace ProductInventory.DataAccess.Tests
             Assert.AreEqual(5, count);
         }
 
-        [TestMethod()]
+        [TestMethod]
         public void FindByIdTest_ShouldNotFindProductWithIdZero()
         {
             var product = _dataRepo.Object.FindById(0);
@@ -78,7 +78,7 @@ namespace ProductInventory.DataAccess.Tests
             Assert.IsNull(product);
         }
 
-        [TestMethod()]
+        [TestMethod]
         public void FindByIdTest_ShouldFindProductWithIdOne()
         {
             var product = _dataRepo.Object.FindById(1);
@@ -86,7 +86,7 @@ namespace ProductInventory.DataAccess.Tests
             Assert.AreEqual("Dawn Dish Soap", product.Name);
         }
 
-        [TestMethod()]
+        [TestMethod]
         public void FindByIdTest_ShouldFindProductWithIdFive()
         {
             var product = _dataRepo.Object.FindById(5);
@@ -94,7 +94,7 @@ namespace ProductInventory.DataAccess.Tests
             Assert.AreEqual("Jiffy Peanut Butter", product.Name);
         }
 
-        [TestMethod()]
+        [TestMethod]
         public void FindByIdTest_ShouldNotFindProductWithIdTen()
         {
             var product = _dataRepo.Object.FindById(10);
@@ -102,7 +102,7 @@ namespace ProductInventory.DataAccess.Tests
             Assert.IsNull(product);
         }
 
-        [TestMethod()]
+        [TestMethod]
         public void FindByNameTest_ShouldFindProductIdWithNameInput()
         {
             var product = _dataRepo.Object.FindByName("Jiffy Peanut Butter");
@@ -110,36 +110,21 @@ namespace ProductInventory.DataAccess.Tests
             Assert.AreEqual(5, product.Id);
         }
 
-        [TestMethod()]
-        public void FindByNameTest_ShouldNotFindTheIdWithUnlistedName()
+        [TestMethod]
+        public void FindByNameTest_ShouldNotFindUnlistedName()
         {
             var product = _dataRepo.Object.FindByName("Chapstick Lipbalm");
 
             Assert.IsNull(product);
         }
 
-        [TestMethod()]
+        [TestMethod]
         public void SaveTest_AddANewProduct()
         {
-            _dataRepo.Object.Save(new Product { Id = 7, Name = "Hawaiian Drinking Water", Price = 3.29m });
-            var listCount = _dataRepo.Object.FindAll().Count();
+            var newProduct = new Product { Id = 7, Name = "Hawaiian Drinking Water", Price = 3.29m };
+            _dataRepo.Object.Save(newProduct);
 
-            Assert.AreEqual(6, listCount);
-        }
-
-        [TestMethod()]
-        [ExpectedException(typeof(InvalidOperationException))]
-        public void SaveTest_ShouldThrowExceptionForUnknownProduct()
-        {
-            var product = new Product
-            {
-                Id = 121,
-                Name = "Vaseline Intensive Care Body Lotion",
-                Price = 7.49m
-            };
-            _dataRepo.Object.Save(product);
-
-            //Assert.AreEqual("Waiakea Hawaiian Volcanic Water", _dataRepo.Object.FindById(9).Name);
+            Assert.AreEqual(6, _dataRepo.Object.FindAll().Count());
         }
     }
 }
