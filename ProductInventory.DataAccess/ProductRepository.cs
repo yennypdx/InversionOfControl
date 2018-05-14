@@ -42,7 +42,8 @@ namespace ProductInventory.DataAccess
         public bool Save(Product targetProduct)
         {
             var products = FindAll();
-            var productToUpdate = products.SingleOrDefault(product => product.Id.Equals(targetProduct.Id));
+            var productToUpdate = products.SingleOrDefault(product 
+                => product.Id.Equals(targetProduct.Id));
 
             if (productToUpdate == null) return false;
             productToUpdate.Id = targetProduct.Id;

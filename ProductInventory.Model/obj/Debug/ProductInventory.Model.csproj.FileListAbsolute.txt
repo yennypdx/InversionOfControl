@@ -4,9 +4,3 @@ C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.Model\obj\Debug\
 C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.Model\obj\Debug\ProductInventory.Model.csproj.CoreCompileInputs.cache
 C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.Model\obj\Debug\ProductInventory.Model.dll
 C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.Model\obj\Debug\ProductInventory.Model.pdb
-C:\Repos\InversionOfControl\ProductInventory.Model\bin\Debug\ProductInventory.Model.dll
-C:\Repos\InversionOfControl\ProductInventory.Model\bin\Debug\ProductInventory.Model.pdb
-C:\Repos\InversionOfControl\ProductInventory.Model\obj\Debug\ProductInventory.Model.csprojResolveAssemblyReference.cache
-C:\Repos\InversionOfControl\ProductInventory.Model\obj\Debug\ProductInventory.Model.csproj.CoreCompileInputs.cache
-C:\Repos\InversionOfControl\ProductInventory.Model\obj\Debug\ProductInventory.Model.dll
-C:\Repos\InversionOfControl\ProductInventory.Model\obj\Debug\ProductInventory.Model.pdb

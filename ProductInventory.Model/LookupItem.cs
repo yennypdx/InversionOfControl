@@ -22,5 +22,12 @@ namespace ProductInventory.Model
             hashCode = hashCode * -1521134295 + EqualityComparer<string>.Default.GetHashCode(DisplayProduct);
             return hashCode;
         }
+
+        public override string ToString()
+        {
+            string outString = Id + ". " + DisplayProduct;
+
+            return outString;
+        }
     }
 }
