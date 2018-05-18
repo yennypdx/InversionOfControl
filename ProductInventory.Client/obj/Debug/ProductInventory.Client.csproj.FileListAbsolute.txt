@@ -1,17 +1,2 @@
 C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.Client\obj\Debug\ProductInventory.Client.csprojResolveAssemblyReference.cache
 C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.Client\obj\Debug\ProductInventory.Client.csproj.CoreCompileInputs.cache
-C:\Repos\InversionOfControl\ProductInventory.Client\bin\Debug\Database.txt
-C:\Repos\InversionOfControl\ProductInventory.Client\bin\Debug\ProductInventory.Client.exe.config
-C:\Repos\InversionOfControl\ProductInventory.Client\bin\Debug\ProductInventory.Client.exe
-C:\Repos\InversionOfControl\ProductInventory.Client\bin\Debug\ProductInventory.Client.pdb
-C:\Repos\InversionOfControl\ProductInventory.Client\bin\Debug\Autofac.dll
-C:\Repos\InversionOfControl\ProductInventory.Client\bin\Debug\ProductInventory.DataAccess.dll
-C:\Repos\InversionOfControl\ProductInventory.Client\bin\Debug\ProductInventory.Model.dll
-C:\Repos\InversionOfControl\ProductInventory.Client\bin\Debug\ProductInventory.DataAccess.pdb
-C:\Repos\InversionOfControl\ProductInventory.Client\bin\Debug\ProductInventory.Model.pdb
-C:\Repos\InversionOfControl\ProductInventory.Client\bin\Debug\Autofac.xml
-C:\Repos\InversionOfControl\ProductInventory.Client\obj\Debug\ProductInventory.Client.csprojResolveAssemblyReference.cache
-C:\Repos\InversionOfControl\ProductInventory.Client\obj\Debug\ProductInventory.Client.csproj.CoreCompileInputs.cache
-C:\Repos\InversionOfControl\ProductInventory.Client\obj\Debug\ProductInventory.Client.csproj.CopyComplete
-C:\Repos\InversionOfControl\ProductInventory.Client\obj\Debug\ProductInventory.Client.exe
-C:\Repos\InversionOfControl\ProductInventory.Client\obj\Debug\ProductInventory.Client.pdb
