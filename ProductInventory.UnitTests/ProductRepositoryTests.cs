@@ -103,6 +103,14 @@ namespace ProductInventory.DataAccess.Tests
         }
 
         [TestMethod]
+        public void FindByIdTest_ShouldFindProductWithIdTwo()
+        {
+            var product = _dataRepo.Object.FindById(2);
+
+            Assert.AreEqual("Tostino's Pizza Rolls", product.Name);
+        }
+
+        [TestMethod]
         public void FindByNameTest_ShouldFindProductIdWithNameInput()
         {
             var product = _dataRepo.Object.FindByName("Jiffy Peanut Butter");

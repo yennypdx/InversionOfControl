@@ -10,15 +10,3 @@ C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.DataAccess\obj\D
 C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.DataAccess\obj\Debug\ProductInventory.DataAccess.dll
 C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.DataAccess\obj\Debug\ProductInventory.DataAccess.pdb
 C:\Users\Yenny Wright\Desktop\ProductInventory\ProductInventory.DataAccess\bin\Debug\Database.txt
-C:\Repos\InversionOfControl\ProductInventory.DataAccess\bin\Debug\Database.txt
-C:\Repos\InversionOfControl\ProductInventory.DataAccess\bin\Debug\ProductInventory.DataAccess.dll
-C:\Repos\InversionOfControl\ProductInventory.DataAccess\bin\Debug\ProductInventory.DataAccess.pdb
-C:\Repos\InversionOfControl\ProductInventory.DataAccess\bin\Debug\Newtonsoft.Json.dll
-C:\Repos\InversionOfControl\ProductInventory.DataAccess\bin\Debug\ProductInventory.Model.dll
-C:\Repos\InversionOfControl\ProductInventory.DataAccess\bin\Debug\ProductInventory.Model.pdb
-C:\Repos\InversionOfControl\ProductInventory.DataAccess\bin\Debug\Newtonsoft.Json.xml
-C:\Repos\InversionOfControl\ProductInventory.DataAccess\obj\Debug\ProductInventory.DataAccess.csprojResolveAssemblyReference.cache
-C:\Repos\InversionOfControl\ProductInventory.DataAccess\obj\Debug\ProductInventory.DataAccess.csproj.CoreCompileInputs.cache
-C:\Repos\InversionOfControl\ProductInventory.DataAccess\obj\Debug\ProductInventory.DataAccess.csproj.CopyComplete
-C:\Repos\InversionOfControl\ProductInventory.DataAccess\obj\Debug\ProductInventory.DataAccess.dll
-C:\Repos\InversionOfControl\ProductInventory.DataAccess\obj\Debug\ProductInventory.DataAccess.pdb
